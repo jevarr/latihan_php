@@ -1,7 +1,7 @@
 <?php
 $nim = "250030601";
-$nama = "Evansky";
-$kodeJurusan = "TI";
+$nama = "Satriayuda Evan Jaya";
+$kodeJurusan = "SI";
 $angkatan = 2025;
 $umur = 20;
 $gender = "Laki-laki";
